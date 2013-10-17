@@ -31,6 +31,9 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+
+	cout << "Ég heiti Sveinn Arnar Stefánsson" << endl;
+
 	int val;
 	do
 	{
